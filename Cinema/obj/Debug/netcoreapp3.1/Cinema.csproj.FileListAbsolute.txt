@@ -1,0 +1,22 @@
+D:\_Study\_DevEducation\НА сдачу\Кинотеатр\Cinema\bin\Debug\netcoreapp3.1\Cinema.exe
+D:\_Study\_DevEducation\НА сдачу\Кинотеатр\Cinema\bin\Debug\netcoreapp3.1\Cinema.deps.json
+D:\_Study\_DevEducation\НА сдачу\Кинотеатр\Cinema\bin\Debug\netcoreapp3.1\Cinema.runtimeconfig.json
+D:\_Study\_DevEducation\НА сдачу\Кинотеатр\Cinema\bin\Debug\netcoreapp3.1\Cinema.runtimeconfig.dev.json
+D:\_Study\_DevEducation\НА сдачу\Кинотеатр\Cinema\bin\Debug\netcoreapp3.1\Cinema.dll
+D:\_Study\_DevEducation\НА сдачу\Кинотеатр\Cinema\bin\Debug\netcoreapp3.1\Cinema.pdb
+D:\_Study\_DevEducation\НА сдачу\Кинотеатр\Cinema\obj\Debug\netcoreapp3.1\Cinema.AssemblyInfoInputs.cache
+D:\_Study\_DevEducation\НА сдачу\Кинотеатр\Cinema\obj\Debug\netcoreapp3.1\Cinema.AssemblyInfo.cs
+D:\_Study\_DevEducation\НА сдачу\Кинотеатр\Cinema\obj\Debug\netcoreapp3.1\Cinema.dll
+D:\_Study\_DevEducation\НА сдачу\Кинотеатр\Cinema\obj\Debug\netcoreapp3.1\Cinema.pdb
+D:\_Study\_DevEducation\НА сдачу\Кинотеатр\Cinema\obj\Debug\netcoreapp3.1\Cinema.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Cinema\bin\Debug\netcoreapp3.1\Cinema.exe
+C:\Users\User\Desktop\Cinema\bin\Debug\netcoreapp3.1\Cinema.deps.json
+C:\Users\User\Desktop\Cinema\bin\Debug\netcoreapp3.1\Cinema.runtimeconfig.json
+C:\Users\User\Desktop\Cinema\bin\Debug\netcoreapp3.1\Cinema.runtimeconfig.dev.json
+C:\Users\User\Desktop\Cinema\bin\Debug\netcoreapp3.1\Cinema.dll
+C:\Users\User\Desktop\Cinema\bin\Debug\netcoreapp3.1\Cinema.pdb
+C:\Users\User\Desktop\Cinema\obj\Debug\netcoreapp3.1\Cinema.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Cinema\obj\Debug\netcoreapp3.1\Cinema.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Cinema\obj\Debug\netcoreapp3.1\Cinema.AssemblyInfo.cs
+C:\Users\User\Desktop\Cinema\obj\Debug\netcoreapp3.1\Cinema.dll
+C:\Users\User\Desktop\Cinema\obj\Debug\netcoreapp3.1\Cinema.pdb
